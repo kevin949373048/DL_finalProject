@@ -12,7 +12,3 @@
 
 ## Reference
 most of the code of model architecture and training is revised from
-https://github.com/kuangliu/pytorch-cifar
-
-K-fold cross validation code refers to
-https://medium.com/dataseries/k-fold-cross-validation-with-pytorch-and-sklearn-d094aa00105f
